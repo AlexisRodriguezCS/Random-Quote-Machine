@@ -1,4 +1,4 @@
-# ![WebApp](https://github.com/Alexisrsz/Random-Quote-Machine/blob/main/images/4k.png)
+# ![WebApp](https://github.com/Alexisrsz/Random-Quote-Machine/blob/main/images/full1080.png)
 # Random-Quote-Machine
 <table>
 <tr>
@@ -25,6 +25,6 @@ Here is a working live demo :  https://codepen.io/AlexisRodriguez/pen/VwegEMX
 
 ## Team
 
-[![Alexis Rodriguez](https://avatars.githubusercontent.com/u/24196227?v=4)](https://github.com/Alexisrsz)  |
+[![Alexis Rodriguez](https://avatars.githubusercontent.com/u/24196227?v=4)](https://github.com/Alexisrsz)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
 ---|---
 [Alexis Rodriguez ](https://github.com/Alexisrsz)  |
