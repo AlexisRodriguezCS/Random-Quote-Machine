@@ -22,8 +22,3 @@ Here is a working live demo :  https://codepen.io/AlexisRodriguez/pen/VwegEMX
 ## To-do
 - Make background and text colors change when new quote button is clicked.
 - (suggestions are most welcome).
-
-## Team
-
-<img src="https://avatars.githubusercontent.com/u/24196227?v=4" width="100px;"/><br />
-[Alexis Rodriguez ](https://github.com/Alexisrsz)
