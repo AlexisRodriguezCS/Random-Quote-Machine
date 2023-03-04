@@ -25,7 +25,6 @@ Here is a working live demo :  https://codepen.io/AlexisRodriguez/pen/VwegEMX
 
 ## Team
 
-[![Alexis Rodriguez](https://avatars.githubusercontent.com/u/24196227?v=4)](https://github.com/Alexisrsz)
+[![Alexis Rodriguez](https://avatars.githubusercontent.com/u/24196227?v=4)](https://github.com/Alexisrsz)  |
 ---|---
-[Alexis Rodriguez ](https://github.com/Alexisrsz)
-
+[Alexis Rodriguez ](https://github.com/Alexisrsz)  |
