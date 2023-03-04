@@ -1,4 +1,4 @@
-# ![WebApp](https://github.com/Alexisrsz/Random-Quote-Machine/blob/main/images/full 1080.png)
+# ![WebApp](https://github.com/Alexisrsz/Random-Quote-Machine/blob/main/images/Full%201080.png)
 # Random-Quote-Machine
 <table>
 <tr>
